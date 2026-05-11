@@ -30,6 +30,18 @@ common:
     url: https://www.obsidiansecurity.com
   - type: Documentation
     url: https://www.obsidiansecurity.com/resources
+  - type: Integrations
+    url: https://www.obsidiansecurity.com/partners
+integrations:
+  - name: Databricks
+  - name: GitHub
+  - name: Google Workspace
+  - name: Microsoft 365
+  - name: Okta
+  - name: Salesforce
+  - name: ServiceNow
+  - name: Snowflake
+  - name: Workday
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
