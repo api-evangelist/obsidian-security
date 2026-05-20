@@ -26,6 +26,10 @@ apis:
       - type: Developer
         url: https://docs.obsec.io/
 common:
+  - type: GitHubOrganization
+    url: https://github.com/obsidian-security
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/obsidiansecurity
   - type: Website
     url: https://www.obsidiansecurity.com
   - type: Documentation
