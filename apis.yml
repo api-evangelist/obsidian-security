@@ -26,6 +26,10 @@ apis:
       - type: Developer
         url: https://docs.obsec.io/
 common:
+  - type: TrustCenter
+    url: security/obsidian-security-trust-center.yml
+  - type: DomainSecurity
+    url: security/obsidian-security-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/obsidian-security
   - type: LinkedIn
@@ -36,6 +40,8 @@ common:
     url: https://www.obsidiansecurity.com/resources
   - type: Integrations
     url: https://www.obsidiansecurity.com/partners
+  - type: Blog
+    url: https://www.obsidiansecurity.com/blog
 integrations:
   - name: Databricks
   - name: GitHub
