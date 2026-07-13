@@ -1,0 +1,21 @@
+{
+  "repo": "obsidian-security",
+  "feeds": [
+    {
+      "source": "https://www.obsidiansecurity.com/blog",
+      "feed_url": "https://www.obsidiansecurity.com/blog",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
+      "source": "https://www.obsidiansecurity.com/partners",
+      "feed_url": "https://www.obsidiansecurity.com/partners",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 7
+}
