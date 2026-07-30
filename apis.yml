@@ -3,7 +3,19 @@ name: Obsidian Security
 description: >-
   Obsidian Security is a SaaS security platform providing threat detection, posture management, and compliance monitoring for cloud applications.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: freemium
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Freemium
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/obsidian-security.png
 tags:
   - SaaS Security
   - Threat Detection
