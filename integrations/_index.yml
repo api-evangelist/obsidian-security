@@ -15,3 +15,54 @@
   relationship: distribution-channel
   status: not-a-workflow
   arazzo: null
+- slug: obsidian-security-crowdstrike-own
+  label: CrowdStrike (own)
+  partner: crowdstrike
+  partner_name: CrowdStrike (own)
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://marketplace.crowdstrike.com/listings/obsidian-security-data-connector/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: obsidian-security-microsoft-sentinel-own
+  label: Microsoft Sentinel (own)
+  partner: microsoft-sentinel
+  partner_name: Microsoft Sentinel (own)
+  category: Security - Cloud Security
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://github.com/Azure/Azure-Sentinel/tree/master/Solutions/Obsidian%20Datasharing
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: obsidian-security-okta-own
+  label: Okta (own)
+  partner: okta
+  partner_name: Okta (own)
+  category: Single Sign-On
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://www.okta.com/integrations/obsidiansecurity/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
+- slug: obsidian-security-splunk-own
+  label: Splunk (own)
+  partner: splunk
+  partner_name: Splunk (own)
+  category: app
+  type: marketplace
+  marketplace: own
+  channel: partner-built
+  evidence: https://splunkbase.splunk.com/app/7087/
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
