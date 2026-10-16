@@ -2,21 +2,21 @@
   "repo": "obsidian-security",
   "feeds": [
     {
-      "source": "https://www.obsidiansecurity.com/partners",
-      "feed_url": "https://www.obsidiansecurity.com/partners",
-      "title": "",
-      "saved": 0,
-      "method": "none"
-    },
-    {
       "source": "https://www.obsidiansecurity.com/blog",
       "feed_url": "https://www.obsidiansecurity.com/blog",
       "title": "",
       "saved": 0,
       "method": "none"
+    },
+    {
+      "source": "https://www.obsidiansecurity.com/partners",
+      "feed_url": "https://www.obsidiansecurity.com/partners",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 7,
   "feed_nature": "vendor-blog",
   "feed_nature_basis": "path_blog",
